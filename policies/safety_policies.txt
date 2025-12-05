@@ -1,0 +1,39 @@
+COMPANY SAFETY POLICIES
+
+1. CHILD SAFETY
+   - We do not allow grooming, sexual messages, or relationship pressure involving minors.
+   - Adults should not repeatedly contact minors in private messages.
+   - Any message asking a minor to keep secrets from parents or guardians is considered high risk.
+
+2. BULLYING & HARASSMENT
+   - We do not allow repeated insults, humiliation, or threats.
+   - Attacking appearance, intelligence, or social status is considered bullying.
+   - Coordinated bullying by multiple accounts against one user is treated as higher severity.
+
+3. SELF-HARM & MENTAL HEALTH
+   - We take content mentioning suicide, self-harm, starving, or self-hatred very seriously.
+   - Such content must be escalated with supportive responses and human review.
+   - Encouraging others to self-harm is strictly forbidden.
+
+4. SUBSTANCE ABUSE
+   - Posts promoting heavy drinking, drug use, or pill misuse by minors are not allowed.
+   - Adults promoting such behavior to minors is considered critical risk.
+   - Educational or harm-reduction discussions may be allowed if clearly non-promotional.
+
+5. SEXUAL CONTENT & EXPLOITATION
+   - Adults must not send sexual or suggestive messages to minors.
+   - Any request to keep intimate or romantic communication secret is treated as critical grooming risk.
+   - Sharing or requesting explicit images from minors is strictly prohibited.
+
+6. GENERAL SAFETY & THREATS
+   - Direct threats of violence or doxxing are not allowed.
+   - Coordinated calls for self-harm, harassment, or real-world violence are critical severity.
+
+7. ESCALATION GUIDELINES
+   - Low risk: monitor only.
+   - Medium risk: show warnings or restrict certain features.
+   - High risk: escalate to the Trust & Safety team for human review.
+   - Critical risk: immediate action (e.g., content removal, account suspension, and possible legal escalation).
+
+These policies are intended as simplified guidelines to help the AI Safety & Risk Auditor
+classify violations and recommend actions. They do not replace full legal or compliance review.

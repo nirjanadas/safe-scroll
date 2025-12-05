@@ -1,0 +1,61 @@
+interaction_id,from_user,to_user,type,text,timestamp
+i1,u7,u9,dm,"Hey, how are your exams going?",2024-03-22
+i2,u18,u16,dm,Don't tell anyone we talk here.,2024-03-23
+i3,u1,u10,dm,"Hey, how are your exams going?",2024-04-19
+i4,u2,u4,dm,We should meet alone sometime.,2024-04-24
+i5,u20,u7,dm,Did you finish the homework?,2024-03-31
+i6,u11,u10,dm,Let's play BGMI later.,2024-04-11
+i7,u20,u8,dm,I can send you pics but keep it secret.,2024-04-23
+i8,u8,u17,dm,Don't tell anyone we talk here.,2024-03-02
+i9,u9,u8,dm,Did you finish the homework?,2024-04-12
+i10,u11,u8,dm,Let's play BGMI later.,2024-04-14
+i11,u1,u9,dm,Don't tell anyone we talk here.,2024-03-22
+i12,u15,u9,dm,I can send you pics but keep it secret.,2024-03-23
+i13,u1,u10,dm,Did you finish the homework?,2024-04-09
+i14,u12,u10,dm,"Hey, how are your exams going?",2024-04-14
+i15,u12,u6,dm,Did you finish the homework?,2024-04-29
+i16,u11,u1,dm,Let's play BGMI later.,2024-04-27
+i17,u7,u10,dm,I can send you pics but keep it secret.,2024-03-03
+i18,u2,u3,dm,"Hey, how are your exams going?",2024-03-12
+i19,u4,u10,dm,Don't tell anyone we talk here.,2024-03-04
+i20,u13,u3,dm,Don't tell anyone we talk here.,2024-03-27
+i21,u1,u16,dm,Let's play BGMI later.,2024-04-16
+i22,u12,u7,dm,"Hey, how are your exams going?",2024-04-10
+i23,u11,u8,dm,We should meet alone sometime.,2024-04-24
+i24,u18,u6,dm,We should meet alone sometime.,2024-04-23
+i25,u7,u10,dm,Did you finish the homework?,2024-03-03
+i26,u20,u17,dm,Let's play BGMI later.,2024-04-14
+i27,u15,u5,dm,I can send you pics but keep it secret.,2024-03-25
+i28,u14,u19,dm,Let's play BGMI later.,2024-03-14
+i29,u11,u9,dm,Did you finish the homework?,2024-04-05
+i30,u6,u3,dm,I can send you pics but keep it secret.,2024-04-04
+i31,u14,u5,dm,"Hey, how are your exams going?",2024-04-06
+i32,u8,u6,dm,Let's play BGMI later.,2024-04-02
+i33,u4,u16,dm,I can send you pics but keep it secret.,2024-03-31
+i34,u9,u10,dm,We should meet alone sometime.,2024-04-19
+i35,u2,u6,dm,I can send you pics but keep it secret.,2024-03-29
+i36,u9,u4,dm,"Hey, how are your exams going?",2024-03-15
+i37,u7,u8,dm,"Hey, how are your exams going?",2024-04-25
+i38,u1,u9,dm,Don't tell anyone we talk here.,2024-03-11
+i39,u12,u2,dm,Did you finish the homework?,2024-03-26
+i40,u20,u4,dm,"Hey, how are your exams going?",2024-04-28
+i41,u19,u17,dm,"Hey, how are your exams going?",2024-04-12
+i42,u14,u12,dm,Did you finish the homework?,2024-03-27
+i43,u2,u16,dm,We should meet alone sometime.,2024-03-06
+i44,u17,u3,dm,Don't tell anyone we talk here.,2024-03-26
+i45,u12,u17,dm,"Hey, how are your exams going?",2024-03-23
+i46,u1,u15,dm,I can send you pics but keep it secret.,2024-04-07
+i47,u14,u10,dm,"Hey, how are your exams going?",2024-03-14
+i48,u11,u9,dm,We should meet alone sometime.,2024-04-03
+i49,u2,u3,dm,"Hey, how are your exams going?",2024-04-08
+i50,u13,u14,dm,I can send you pics but keep it secret.,2024-04-02
+i51,u9,u17,dm,Let's play BGMI later.,2024-03-18
+i52,u11,u20,dm,Don't tell anyone we talk here.,2024-04-19
+i53,u2,u4,dm,"Hey, how are your exams going?",2024-03-12
+i54,u14,u9,dm,Did you finish the homework?,2024-03-27
+i55,u14,u19,dm,Did you finish the homework?,2024-03-14
+i56,u13,u7,dm,Let's play BGMI later.,2024-03-15
+i57,u19,u9,dm,"Hey, how are your exams going?",2024-04-05
+i58,u9,u4,dm,Don't tell anyone we talk here.,2024-03-13
+i59,u9,u4,dm,Don't tell anyone we talk here.,2024-04-26
+i60,u15,u10,dm,I can send you pics but keep it secret.,2024-03-24
