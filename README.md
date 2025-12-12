@@ -116,8 +116,21 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+---
 
+## 📊 Output & Reports
 
+SafeScroll generates:
+- Structured JSON risk analysis
+- Visual risk indicators
+- Policy violation summary
+- Final human-readable safety report
+
+---
+
+## 📌 Disclaimer
+
+All user data is synthetic and used only for research and demonstration purposes.
 
 
 
