@@ -12,26 +12,23 @@
 
 ---
 
+# 🛡️ SafeScroll — AI-Powered Social Media Safety Auditor  
+**Making your social feed safer — one scroll at a time.**
 
-# 🛡️ AI Safety & Risk Auditor for Social Platforms
+SafeScroll is an **AI-powered Trust & Safety auditing system** that simulates how modern social media platforms internally detect and respond to harmful content and unsafe user behavior.
 
-This project is a small simulation of an **internal Trust & Safety tool** for a social media platform.
+It demonstrates how **multi-agent GenAI systems** can be applied to:
+- content moderation
+- underage safety
+- grooming detection
+- policy enforcement
+- human-readable safety reporting
 
-It uses a **multi-agent LLM pipeline** on top of synthetic company data (users, posts, DMs) to:
-
-- Analyse user posts and private messages
-- Detect underage risk / misrepresentation
-- Detect bullying and harassment
-- Detect self-harm / mental health risk
-- Detect grooming / sexual exploitation patterns
-- Detect substance abuse promotion
-- Map the findings to simplified **safety policies**
-- Generate a **user-level safety report** with an overall risk score and recommended action
-
-All data in this project is **synthetic** and for **research/demo purposes only**.
+This project is built for **research, demos, and resume-ready showcasing** of real-world AI safety engineering.
 
 ---
 
+ 
 ## ✨ Features
 
 - Multi-agent GenAI workflow:
