@@ -1,69 +1,69 @@
-# Python cache & build files
+# -----------------------------
+# Python
+# -----------------------------
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.pdb
-*.pkl
-*.db
-*.sqlite3
-
-# Byte-compiled / optimized DLL files
-*.so
-*.dll
-
-# Distribution / packaging
-build/
-dist/
 *.egg-info/
-.eggs/
+*.eggs/
+*.egg
+*$py.class
 
-# Virtual environments
-.env
+# -----------------------------
+# Virtual Environments
+# -----------------------------
 .venv/
 venv/
-ENV/
 env/
 
-# Streamlit / app artifacts
-.streamlit/*.toml
-.streamlit/secrets.toml
-.streamlit/
+# -----------------------------
+# Streamlit
+# -----------------------------
+.streamlit/secrets.toml   # keep config, hide secrets
+.streamlit/cache/
+.streamlit/state/
 
-# Logs
-*.log
+# Allow config.toml to be pushed
+!.streamlit/config.toml
 
-# OS-specific
+# -----------------------------
+# OS / Editor Junk
+# -----------------------------
 .DS_Store
 Thumbs.db
-
-# IDEs / Editors
 .vscode/
 .idea/
-*.iml
+*.log
 
-# JetBrains
-*.ipr
-*.iws
-
-# Environment & API keys
-*.env
+# -----------------------------
+# Environment Files
+# -----------------------------
+.env
 .env.*
-secrets.env
+*.env
 
-# Jupyter Notebook (if used)
-.ipynb_checkpoints/
+# -----------------------------
+# Build / Distribution
+# -----------------------------
+dist/
+build/
 
-# Data files
-data/*.csv
-data/*.json
-data/*.txt
+# -----------------------------
+# Temporary Files
+# -----------------------------
+*.tmp
+*.bak
+*.swp
+*.swo
 
-# Cache directories
-.cache/
-.pytype/
-.mypy_cache/
-pytest_cache/
+# -----------------------------
+# Generated Reports or Output
+# -----------------------------
+*.txt
+*.pdf
 
-# Docker / containers
-*.pid
+# -----------------------------
+# Python Cache Cleanup
+# -----------------------------
+**/__pycache__/
