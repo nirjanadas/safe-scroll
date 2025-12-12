@@ -38,15 +38,21 @@ All data in this project is **synthetic** and for **research/demo purposes only*
 ## 🗂 Folder structure
 
 ```text
-ai-safety-auditor/
-├─ app.py                     # Streamlit app (UI + pipeline)
-├─ agents.py                  # All LLM-based safety agents
-├─ generate_synthetic_data.py # Script to create synthetic data
-├─ requirements.txt
-├─ README.md
-├─ data/
-│  ├─ users.csv               # Generated users
-│  ├─ posts.csv               # Generated posts
-│  └─ interactions.csv        # Generated DMs
-└─ policies/
-   └─ safety_policies.txt     # Simplified company policies
+ safe-scroll/
+├── .streamlit/
+│   └── config.toml
+├── assets/
+│   ├── safescroll_overview.png
+│   └── safescroll_moderation.png
+├── data/
+│   ├── interactions.csv
+│   ├── posts.csv
+│   └── users.csv
+├── policies/
+│   └── safety_policies.txt
+├── README.md
+├── agents.py
+├── app.py
+├── generate_synthetic_data.py
+└── requirements.txt
+```
